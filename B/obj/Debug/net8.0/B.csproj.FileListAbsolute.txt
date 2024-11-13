@@ -1,0 +1,14 @@
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.AssemblyInfoInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.AssemblyInfo.cs
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.csproj.CoreCompileInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/bin/Debug/net8.0/B
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/bin/Debug/net8.0/B.deps.json
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/bin/Debug/net8.0/B.runtimeconfig.json
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/bin/Debug/net8.0/B.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/bin/Debug/net8.0/B.pdb
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/refint/B.dll
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.pdb
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/B.genruntimeconfig.cache
+/Users/idahagerth/Documents/Skola/Programmering 2/Moment 4/B/obj/Debug/net8.0/ref/B.dll
